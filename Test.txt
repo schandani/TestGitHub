@@ -1,4 +1,8 @@
 Test
 Test
 Test 2017
+<<<<<<< HEAD
 TestBranch Changes
+Salim's Change
+=======
+>>>>>>> parent of 27c7490... TestBranch Changes 20180825
