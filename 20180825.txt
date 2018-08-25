@@ -1,0 +1,20 @@
+2018/08/25:
+What is the agenda today and what are our goals?
+• Why are you meeting?
+Learn about Github
+	Create a repository
+	Collaborate
+	Share code
+	Get latest changes merged and disseminated
+Team Building
+Engineering Notebook
+• What decisions did your team make in forming the team, creating the robot, writing the program, the
+outreach projects, etc.?
+Who will work on what part of FTC
+	Building
+	Electrical/Sensors
+	Software
+• Why did you make that choice when building your robot, coded the software that way, chose that group
+of individuals to outreach to, etc.?
+• What was the impact on your team, robot, or community when you made that decision?
+• What is the next step? 
