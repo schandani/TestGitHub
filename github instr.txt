@@ -1,0 +1,20 @@
+Create a github account
+
+optionally you can create your own repository.
+
+connect to repository - clone/contribute
+https://github.com/schandani/TestGitHub/settings
+add contributors
+
+accept contributor invitation
+get repository to local desktop
+
+open in github desktop
+
+edit a file
+commit (add comments)
+synchronize with web
+check the changes out in web
+
+
+
